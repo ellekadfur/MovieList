@@ -2,7 +2,7 @@ Hello!
 
 
 This project is a basic Movie List App written in swift using
-http://api.openweathermap.org/data/.
+https://data.sfgov.org/api/views/yitu-d5am/rows.json?accessType=DOWNLOAD.
 
 To run this project you will have to have Xcode. Once you launch the project, you'll see a list of locations that have been used in Movies in Hollywood:
 -MVVM design pattern
